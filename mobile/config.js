@@ -1,1 +1,1 @@
-export const API_URL = 'http://192.168.2.10:3000';
+export const API_URL = 'https://price-tracker-production-0614.up.railway.app';
